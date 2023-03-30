@@ -1,0 +1,1 @@
+# test new contrib file when package theme redirect to .github
