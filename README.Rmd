@@ -20,7 +20,7 @@ knitr::opts_chunk$set(
 
 # {{ packagename }}
 
-{{ packagename }} provides functions to ....
+{{ packagename }} provides functions to ...
 
 <!-- badges: start -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
